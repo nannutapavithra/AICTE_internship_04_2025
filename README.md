@@ -1,1 +1,1 @@
-# AICTE_internship_04_2025
+# AICTE_internship_forest_fire_detection
